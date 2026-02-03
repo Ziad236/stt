@@ -1,0 +1,17 @@
+# Core Frameworks
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+pika
+
+# AI / Audio Processing
+torch
+torchaudio
+--extra-index-url https://download.pytorch.org/whl/cu121
+faster-whisper
+librosa
+soundfile
+numpy
+pandas
+openpyxl
